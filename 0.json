@@ -1,0 +1,10 @@
+{
+    "name": "INF #001",
+    "symbol": "INF",
+    "description": "Green Giant",
+    "seller_fee_basis_points": 1,
+    "external_url": "",
+    "edition": "",
+    "background_color": "000000",
+    "image": "https://raw.githubusercontent.com/vpin09/INF/main/0.png"
+}
